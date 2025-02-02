@@ -1,0 +1,13 @@
+name = "Funky Server Season 1"
+author = "FunkyChickenMC"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "234b59fc24c776e23bf4b59f46366720e33f084bf37976d2f9fe3d5af16b124f"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"

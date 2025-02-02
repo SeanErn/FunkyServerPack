@@ -1,0 +1,13 @@
+name = "WayGL"
+filename = "waygl-1.1.5+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XTzhksrl/versions/gxODptv0/waygl-1.1.5%2B1.21.jar"
+hash-format = "sha512"
+hash = "d1e20cfe3ef209bb9bcd8a2d4a9c9358f27f27f4337e75695fab9fff512b4a85a8d0d54e3d10b3048b3a80f9d2c9c1ba4368c447d950e269b2f61aac8ca260fb"
+
+[update]
+[update.modrinth]
+mod-id = "XTzhksrl"
+version = "gxODptv0"
