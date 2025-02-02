@@ -1,0 +1,7 @@
+name = "Distant Horizons Server"
+filename = "uc"
+
+[download]
+url = "https://drive.google.com/uc?export=download&id=1ptXbHrMCw02mzfpgutzYq1UjaIP7OUd3"
+hash-format = "sha256"
+hash = "9627a94734cffcb6452f142390af008139b0ef6620a0c7ca6a315806c378cda7"

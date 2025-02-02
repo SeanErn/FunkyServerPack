@@ -71,13 +71,13 @@ hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "e25f8d5bbea8e14e71fc686644c34f588b97e8e655286101e92824fb547c798d"
+file = "mods/distant-horizons-server.pw.toml"
+hash = "622526c53779f0b970ab55bf1536e2c423ce443a018bacd7f53f8f85c548903b"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizonsserver.pw.toml"
-hash = "d9a0c7882e08e833caf5be05aef411ff7c9a9e1b59abfe1760f903b23fe1fe45"
+file = "mods/distanthorizons.pw.toml"
+hash = "e25f8d5bbea8e14e71fc686644c34f588b97e8e655286101e92824fb547c798d"
 metafile = true
 
 [[files]]

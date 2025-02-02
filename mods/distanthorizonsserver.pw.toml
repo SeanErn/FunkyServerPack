@@ -1,7 +1,0 @@
-name = "distanthorizonsserver"
-filename = "view"
-
-[download]
-url = "https://drive.google.com/file/d/10Z9cKFfpgQw5CXG-YaAx0yl1nrRf6pqM/view?usp=drive_link"
-hash-format = "sha256"
-hash = "72110789a1a47c620049cd666a5c1834565dc87d9ab961fd6bf5ce8e40159c6a"
