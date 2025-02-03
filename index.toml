@@ -46,6 +46,11 @@ hash = "82302805c9d6e897108da0e5abafd367eac05b517d9e892a2355cd0d91946b53"
 metafile = true
 
 [[files]]
+file = "mods/cardboard.pw.toml"
+hash = "752c1a5f4aef531871d5f90ab784eb10f7eacb4a888830e0e3c08ae2568e1571"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
 metafile = true
