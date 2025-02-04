@@ -11,6 +11,16 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/armor-chroma-for-fabric.pw.toml"
+hash = "9f1e98f9b778d089bbf764cfa4ba0f88f8791aef778489817878608673e29b68"
+metafile = true
+
+[[files]]
+file = "mods/armor-of-the-ages.pw.toml"
+hash = "bfb84848dacdd88d5e3f47408b0430fc3c2f52aefa7012029df8255932db5e19"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
 metafile = true
@@ -171,6 +181,11 @@ hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
 metafile = true
@@ -268,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "b596c60d06c7645dce40b16e49eb8ea18c92d09a656cdfce6000e0ff2c8eeae7"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "1a7e45f609052815986ee989cf9d491ac292bb85f1159add7b151c3709e280f3"
 metafile = true
 
 [[files]]
